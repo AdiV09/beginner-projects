@@ -1,4 +1,4 @@
-names = ["Aditya Vasisht", "Anitha Ramesh", "Prashanth Prakash", "HEMI", "ArJun"]
+names = ["Add names here!"]
 work_names = []
 
 for a in names:
